@@ -1,5 +1,5 @@
 ## Aprendizaje estadístico-automático
---
+
 En este proyecto se analiza de forma simpel los niveles de obesidad de la población en Latino América. La base de datos utilizada para poder lograr el objetivo fue la base creada por investigadores de la Universidad de la Costa en Colombia. Los datos recopilados fueron provenientes de individuos de Colmbia, México y Perú.
 
 La base de datos original se puede encontrar en *UCI Machine Learning Repository*. Para esta actividad sólo se trabajó con un versión más simple de ésta. 
