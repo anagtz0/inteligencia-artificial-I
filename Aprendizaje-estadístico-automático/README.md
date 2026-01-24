@@ -17,5 +17,5 @@ En la base de datos se puede encontrar lo siguiente:
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1.1.623201.ipynb)
-- [Reporte en formato htlm](./A1.1.623201.html)
+- [Reporte en formato html](./A1.1.623201.html)
 - [Base de datos](./A1.1%20Obesidad.csv) 
