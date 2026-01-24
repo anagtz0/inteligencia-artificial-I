@@ -25,6 +25,6 @@ Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A1.2%20623201.ipynb)
 - [Reporte en formato htlm](./A1.2%20623201.html)
 - [Base de datos Felicidad y GDP](./A1.2%20Felicidad%20y%20GDP.csv)
-- [Base de datos Fertilidad](./A1.2%20Fertilidad.csv)
+- [Base de datos Fertilidad](./A.1.2%20Fertilidad.csv)
 - [Base de datos Esperanza de Vida](./A1.2%20Esperanza%20de%20Vida.csv)
 - [Base de datos Densidad Poblacional](./A1.2%20Densidad%20Poblacional.csv) 
