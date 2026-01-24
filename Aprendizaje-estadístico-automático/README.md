@@ -4,7 +4,7 @@ En este proyecto se analiza de forma simple los niveles de obesidad de la poblac
 
 La base de datos original se puede encontrar en *UCI Machine Learning Repository*. Para esta actividad sólo se trabajó con un versión más simple de ésta. 
 
-En la base de datos se puede encotnrar lo siguiente:
+En la base de datos se puede encontrar lo siguiente:
 - "Sexo". "Female" o "Male".
 - "Edad".
 - "Estatura". En metros.
