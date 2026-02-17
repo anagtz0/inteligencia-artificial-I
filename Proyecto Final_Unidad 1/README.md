@@ -50,7 +50,7 @@ Se utilizaron las siguientes bases de datos que contienen la siguiente informaci
 - [Reporte en formato ipynb](./P%20P1.%20623201.ipynb)
 - [Reporte en formato html](./P%20P1.%20623201.html)
 - [Base de datos Defunción por Homicidio](./Homicidios.csv)
-- [Base de datos Desocupación](./Desocupación.csv)
+- [Base de datos Desocupación](./Desocupacion.csv)
 - [Base de datos Densidad Poblacional](./DensidadPoblacional.csv)
 - [Base de datos Esperanza de Escolaridad](./Educacion.csv)
 - [Base de datos Ingreso promedio](./Ingreso.csv)
