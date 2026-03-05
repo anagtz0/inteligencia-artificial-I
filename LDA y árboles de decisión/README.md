@@ -17,8 +17,8 @@ Embarked_S: 1 = Southampton.
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./A2.2%20623201.ipynb)
 - [Reporte en formato html](./A2.2%20623201.html)
-- [y_train](./y_train)
-- [y test](./y_test)
-- [X_train_scaled](./X_train_scaled)
-- [X_test_scaled](./X_test_scaled)
+- [y_train](./y_train.csv)
+- [y test](./y_test.csv)
+- [X_train_scaled](./X_train_scaled.csv)
+- [X_test_scaled](./X_test_scaled.csv)
 
