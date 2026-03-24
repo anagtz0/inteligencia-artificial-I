@@ -28,6 +28,6 @@ La base de datos tiene las siguientes variables y cómo fueron previamente norma
 | Diagnóstico | (1) Normal, (2) Alterado | (N, O) |
 
 Este proyecto incluye los siguientes documentos:
-- [Reporte en formato ipynb](./A2.1%20623201.ipynb)
-- [Reporte en formato html](./A2.1%20623201.html)
-- [Base de datos](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+- [Reporte en formato ipynb](./P%20P2.%20623201.ipynb)
+- [Reporte en formato html](./P%20P2.%20623201.html)
+- [Base de datos](https://archive.ics.uci.edu/dataset/244/fertility)
