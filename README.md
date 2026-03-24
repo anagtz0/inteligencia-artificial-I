@@ -9,3 +9,4 @@ Actividades:
 - [P P1. Regresión](./Proyecto%20Final_Unidad%201)
 - [A2.1  Regresión logística y validación cruzada](./Regresión%20logística%20y%20validación%20cruzada)
 - [A2.2  LDA y árboles de decisión](./LDA%20y%20árboles%20de%20decisión)
+- [P P2. Clasificación](./Proyecto%20Final_Unidad%202)
