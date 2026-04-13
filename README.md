@@ -10,3 +10,4 @@ Actividades:
 - [A2.1  Regresión logística y validación cruzada](./Regresión%20logística%20y%20validación%20cruzada)
 - [A2.2  LDA y árboles de decisión](./LDA%20y%20árboles%20de%20decisión)
 - [P P2. Clasificación](./Proyecto%20Final_Unidad%202)
+- [A3.1 PCA y Sistemas de Recomendación](./PCA%20y%20Sistemas%20de%20Recomendación)
