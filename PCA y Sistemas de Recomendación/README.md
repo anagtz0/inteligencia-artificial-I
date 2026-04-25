@@ -19,7 +19,7 @@ En este proyecto se incluyen los siguientes documentos:
 - [Base de datos wine](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data)
 - [Base de datos películas](./u.data)
 - [Base de datos items películas](./u.item)
-- [Aplicación recomendación de películas](./index.html)
+- [Aplicación recomendación de películas](./recomendaciones.html)
 
 
 
