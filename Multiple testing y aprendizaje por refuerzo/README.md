@@ -6,5 +6,10 @@ Se utiliza la tabla Q para que el agente vaya aprendiendo y mejorando.
 
 Al final, se crea un video con diferentes checkpoints (episodios) para ver el avance en aprendizaje del agente. 
 
+En este proyecto se incluyen los siguientes documentos:
+En este proyecto se incluyen los siguientes documentos:
+- [Reporte en formato ipynb](./A3.3%20623201.ipynb)
+- [Reporte en formato html](./A3.3%20623201.html)
+- [Video del agente](./A3.3%20video.mp4)
 
 
