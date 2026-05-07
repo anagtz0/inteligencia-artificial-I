@@ -24,8 +24,8 @@ La base de datos cuenta con 586 pacientes y 60,660 genes.
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./P%20P3.%20623201.ipynb)
 - [Reporte en formato html](./P%20P3.%20623201.html)
-- [Base de datos STAR - TPM]([TCGA-UCEC.clinical.tsv](https://xenabrowser.net/datapages/?dataset=TCGA-UCEC.star_tpm.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
-- [Base de datos Gene Mapping]([TCGA-UCEC.star_tpm.tsv](https://xenabrowser.net/datapages/?dataset=TCGA-UCEC.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443))
+- [Base de datos STAR - TPM](TCGA-UCEC.clinical.tsv](https://xenabrowser.net/datapages/?dataset=TCGA-UCEC.star_tpm.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
+- [Base de datos Gene Mapping](TCGA-UCEC.star_tpm.tsv](https://xenabrowser.net/datapages/?dataset=TCGA-UCEC.clinical.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443)
 
 
 
